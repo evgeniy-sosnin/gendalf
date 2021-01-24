@@ -1,7 +1,7 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
-* Студент: [Олег Назаров](https://up.htmlacademy.ru/javascript/21/user/977377).
-* Наставник: `Неизвестно`.
+* Студент: [Евгений Соснин](https://up.htmlacademy.ru/javascript/21/user/977377).
+* Наставник: `Господь Бог`.
 
 ---
 
